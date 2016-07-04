@@ -5,3 +5,12 @@ Homestead.yaml
 Homestead.json
 .env
 .idea
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+git
+.pki
+.ssh
+tmp/
+.vimrc
